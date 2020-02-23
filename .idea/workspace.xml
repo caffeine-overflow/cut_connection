@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="47a4b086-3fa0-464a-8388-d1f6c30f4df2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/cut_connection.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1YBywxxHXYIzZUr6daGJdRrqv2x" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47a4b086-3fa0-464a-8388-d1f6c30f4df2" name="Default Changelist" comment="" />
+      <created>1582430524242</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582430524242</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="459" y="188" width="1052" height="732" key="SettingsEditor" timestamp="1582430828119">
+      <screen x="50" y="27" width="1870" height="1053" />
+    </state>
+    <state x="459" y="188" width="1052" height="732" key="SettingsEditor/50.27.1870.1053@50.27.1870.1053" timestamp="1582430828119" />
+    <state x="440" y="205" width="1080" height="699" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1582432100226">
+      <screen x="50" y="27" width="1870" height="1053" />
+    </state>
+    <state x="440" y="205" width="1080" height="699" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/50.27.1870.1053@50.27.1870.1053" timestamp="1582432100226" />
+  </component>
+</project>
